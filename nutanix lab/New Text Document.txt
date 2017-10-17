@@ -1,0 +1,8 @@
+nutani credentials
+
+u: krishnachaitanya.mullapudi@sjsu.edu
+p: Spartan@3011
+
+prism gui:
+u: krishnamullapudi
+p: Spartan@3011
